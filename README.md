@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emir002 from Bosnia and Herzegovina
 - 👀 I’m interested in Python, data science and artificial intelligence
-- 🌱 I’m currently learning Python and improving Python
+- 🌱 I’m currently learning Graphs and improving Python
 - 💞️ I’m looking to collaborate on mobile app development
 - 📫 You can reach me via mail emir002@yahoo.com
 - :question: Logic is the beginning of wisdom, not the end.
